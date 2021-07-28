@@ -44,3 +44,10 @@ SQL Serverのサンプルクエリです。
 ## SQL Serverのサービスが停止している場合の対処
 1. RewriteAuth_MSSQLService.vbs...Windows OSのPOWER USERSグループ権限にSQL Serverサービズの実行権限を付与するVBScriptです。
 1. basMain.bas...SQL Serverサービスが停止している場合、実行するためのエクセルマクロの標準モジュールです。
+
+## データベース比較クエリ
+1. 2つのデータベースに存在するすべてのテーブルを比較し、違いを表示します。
+
+## ログインユーザー生成
+1. セキュリティのために、SQL Serverに接続できるユーザーをデータベースごとに生成するときに使います。
+
