@@ -1,4 +1,4 @@
-# SQL-Server
+# SQLServer SampleScript
 SQL Serverのサンプルクエリです。  
 フォルダ構成は、次のとおりです。  
   
